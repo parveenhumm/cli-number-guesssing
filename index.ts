@@ -1,4 +1,5 @@
-#! /usr/bin/env node
+#! /usr/bin/env node //Shabang ("Shabang" is a way to declare the interpreter to be used when executing a script)
+//indicating that the script should be executed using the node interpreter.
 
 import inquirer from "inquirer";//importing inquirer module
 
